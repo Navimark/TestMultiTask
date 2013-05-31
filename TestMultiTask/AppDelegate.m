@@ -33,7 +33,7 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor purpleColor];
     [self.window makeKeyAndVisible];
-    
+     
     NSLog(@"启动时候的字典:%@",launchOptions);
 //    BOOL result = [self isMultitaskingSupported];
 //    NSLog(@"result = %d",result);
